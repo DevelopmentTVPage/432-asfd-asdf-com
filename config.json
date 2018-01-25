@@ -1,0 +1,15 @@
+{
+    "title": "ytests",
+    "baseURL": "https:\/\/asfd.asdf.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": false,
+        "cookiedomain": "asdf.com"
+    }
+}
